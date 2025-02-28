@@ -1,0 +1,14 @@
+c:\Users\matth\Documents\Personal\Coding\palindrome\bin\Debug\net9.0\palindrome.exe
+c:\Users\matth\Documents\Personal\Coding\palindrome\bin\Debug\net9.0\palindrome.deps.json
+c:\Users\matth\Documents\Personal\Coding\palindrome\bin\Debug\net9.0\palindrome.runtimeconfig.json
+c:\Users\matth\Documents\Personal\Coding\palindrome\bin\Debug\net9.0\palindrome.dll
+c:\Users\matth\Documents\Personal\Coding\palindrome\bin\Debug\net9.0\palindrome.pdb
+c:\Users\matth\Documents\Personal\Coding\palindrome\obj\Debug\net9.0\palindrome.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\matth\Documents\Personal\Coding\palindrome\obj\Debug\net9.0\palindrome.AssemblyInfoInputs.cache
+c:\Users\matth\Documents\Personal\Coding\palindrome\obj\Debug\net9.0\palindrome.AssemblyInfo.cs
+c:\Users\matth\Documents\Personal\Coding\palindrome\obj\Debug\net9.0\palindrome.csproj.CoreCompileInputs.cache
+c:\Users\matth\Documents\Personal\Coding\palindrome\obj\Debug\net9.0\palindrome.dll
+c:\Users\matth\Documents\Personal\Coding\palindrome\obj\Debug\net9.0\refint\palindrome.dll
+c:\Users\matth\Documents\Personal\Coding\palindrome\obj\Debug\net9.0\palindrome.pdb
+c:\Users\matth\Documents\Personal\Coding\palindrome\obj\Debug\net9.0\palindrome.genruntimeconfig.cache
+c:\Users\matth\Documents\Personal\Coding\palindrome\obj\Debug\net9.0\ref\palindrome.dll
