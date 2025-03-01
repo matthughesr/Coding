@@ -12,5 +12,5 @@ jobs:
       - name: Build and push the image
         run: |
           docker login --username matthughesr --password ${{ secrets.GH_PAT }} ghcr.io
-          docker build . --tag ghcr.io/palindrom-ghcr:latest
-          docker push ghcr.io/palindrom-ghcr:latest
+          docker build . --tag ghcr.io/matthughesr/palindrom-ghcr:latest
+          docker push ghcr.io/matthughesr/palindrom-ghcr:latest
