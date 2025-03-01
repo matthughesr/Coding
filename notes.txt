@@ -1,0 +1,5 @@
+
+Step 1: create Fockerfile
+Step 2: docker build -t palindrome .
+Step 3: docker run -it palindrome //-it flag allows you to run container interactively.
+

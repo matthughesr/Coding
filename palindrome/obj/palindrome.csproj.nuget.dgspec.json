@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\matth\\Documents\\Personal\\Coding\\palindrome\\palindrome.csproj": {}
+    "C:\\Users\\matth\\Documents\\Personal\\Coding\\palindrome\\palindrome.csproj": {}
   },
   "projects": {
-    "c:\\Users\\matth\\Documents\\Personal\\Coding\\palindrome\\palindrome.csproj": {
+    "C:\\Users\\matth\\Documents\\Personal\\Coding\\palindrome\\palindrome.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\matth\\Documents\\Personal\\Coding\\palindrome\\palindrome.csproj",
+        "projectUniqueName": "C:\\Users\\matth\\Documents\\Personal\\Coding\\palindrome\\palindrome.csproj",
         "projectName": "palindrome",
-        "projectPath": "c:\\Users\\matth\\Documents\\Personal\\Coding\\palindrome\\palindrome.csproj",
+        "projectPath": "C:\\Users\\matth\\Documents\\Personal\\Coding\\palindrome\\palindrome.csproj",
         "packagesPath": "C:\\Users\\matth\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\matth\\Documents\\Personal\\Coding\\palindrome\\obj\\",
+        "outputPath": "C:\\Users\\matth\\Documents\\Personal\\Coding\\palindrome\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\matth\\AppData\\Roaming\\NuGet\\NuGet.Config",

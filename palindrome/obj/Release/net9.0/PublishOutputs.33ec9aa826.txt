@@ -1,0 +1,5 @@
+C:\Users\matth\Documents\Personal\Coding\palindrome\bin\Release\net9.0\publish\palindrome.exe
+C:\Users\matth\Documents\Personal\Coding\palindrome\bin\Release\net9.0\publish\palindrome.dll
+C:\Users\matth\Documents\Personal\Coding\palindrome\bin\Release\net9.0\publish\palindrome.deps.json
+C:\Users\matth\Documents\Personal\Coding\palindrome\bin\Release\net9.0\publish\palindrome.runtimeconfig.json
+C:\Users\matth\Documents\Personal\Coding\palindrome\bin\Release\net9.0\publish\palindrome.pdb
