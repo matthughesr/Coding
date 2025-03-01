@@ -1,5 +1,27 @@
 
-Step 1: create Fockerfile
+Step 1: create Dockerfile
 Step 2: docker build -t palindrome .
 Step 3: docker run -it palindrome //-it flag allows you to run container interactively.
 
+-----------------
+- docker login --username matthughesr --password (your githib token here) ghcr.io       //crete github secret to store personal access token
+- docker build . -t ghcr.io/matthughesr/palindrome-ghcr:latest                          //it needs to follow this naming convention
+--after this step you should have a github package with your program in it 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------
+- docker images         //to view images 
+- docker image rm (imageID) --force     //to remove image
